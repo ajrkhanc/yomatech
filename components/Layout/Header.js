@@ -10,8 +10,8 @@ export default function Header() {
                     <div className="header-top text-white ">
                         <div className="top-left">
                             <ul>
-                                <li><i className="fab fa-phone"></i><a href="callto:18001021345"> 1800 102 1345</a></li>
-                                <li>Email Us: <a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></li>
+                                <li><i className="fas fa-phone-alt"></i> <a href="tel:18001021345"> 1800 102 1345</a></li>
+                                <li><i className="fas fa-envelope"></i> <a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></li>
                             </ul>
                         </div>
                         <div className="top-right">
@@ -65,20 +65,20 @@ export default function Header() {
                                         </li>
                                         <li className="dropdown"><a href="#">SOLUTIONS</a>
                                             <ul>
-                                                <li><a href="/services/cloud-and-devops">Cloud and Devops</a></li>
+                                                <li className='d-none'><a href="/services/cloud-and-devops">Cloud and Devops</a></li>
                                                 <li><a href="/services/custom-software-development">Custom Software Development</a></li>
                                                 <li><a href="/services/mobile-app-development">Mobile App Development</a></li>
-                                                <li><a href="/services/testing-and-qa">Testing and QA</a></li>
-                                                <li><a href="/services/dedicated-development-team">Dedicated Development Team</a></li>
-                                                <li><a href="/services/delivering-the-right-solution">Delivering The Rright Solution</a></li>
+                                                <li className='d-none'><a href="/services/testing-and-qa">Testing and QA</a></li>
+                                                <li className='d-none'><a href="/services/dedicated-development-team">Dedicated Development Team</a></li>
+                                                <li  className='d-none'><a href="/services/delivering-the-right-solution">Delivering The Rright Solution</a></li>
                                                 <li><a href="#">IT Staff Augmentation</a></li>                                                
                                                 <li><a href="/services/software-product-development-services">Software Product Development Services</a></li>
-                                                <li><a href="/services/testing-and-qa">Testing and QA</a></li>
-                                                <li><a href="/services/web-development">Web Development</a></li>
+                                                <li className='d-none'><a href="/services/testing-and-qa">Testing and QA</a></li>
+                                                <li className='d-none'><a href="/services/web-development">Web Development</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="/why-yoma-tech">WHY YOMA TECH</a></li>                                  
-                                        <li><a href="/why-india">WHY INDIA</a></li>
+                                        <li  className='d-none'><a href="/why-india">WHY INDIA</a></li>
                                         <li><a href="/blogs">BLOG</a></li>
                                         <li><a href="/contact-us">CONTACT US</a></li>
                                     </ul>
