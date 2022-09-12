@@ -94,7 +94,7 @@ export default function Home() {
     </Slider>
 </section>
 
-<section className="featured-section bgs-cover pt-40 homeservicebg programbox">
+<section className="featured-section bgs-cover pt-40 pb-50 homeservicebg programbox">
    <div className="container">
       <div className="row justify-content-center">
          <div className="col-lg-6 col-md-8 col-sm-10">
@@ -116,7 +116,7 @@ export default function Home() {
                </div>
             </div>
          </div>
-         <div className="col-xl-4 col-md-6">
+         <div className="col-xl-4 col-md-6 d-none">
             <div className="feature-item wow fadeInUp delay-0-4s">
                <div className="icon">
                   <img src="/assets/img/icon/industrial-staffing.png"/>
@@ -140,7 +140,7 @@ export default function Home() {
                </div>
             </div>
          </div>
-         <div className="col-xl-4 col-md-6">
+         <div className="col-xl-4 col-md-6 d-none">
             <div className="feature-item wow fadeInUp delay-0-8s">
                <div className="icon">
                   <img src="/assets/img/icon/manage-services.png"/>
@@ -152,7 +152,7 @@ export default function Home() {
                </div>
             </div>
          </div>
-         <div className="col-xl-4 col-md-6">
+         <div className="col-xl-4 col-md-6 d-none">
             <div className="feature-item wow fadeInUp delay-1-0s">
                <div className="icon">
                   <img src="/assets/img/icon/shared-resource-program.png"/>
@@ -164,7 +164,7 @@ export default function Home() {
                </div>
             </div>
          </div>
-         <div className="col-xl-4 col-md-6">
+         <div className="col-xl-4 col-md-6 d-none">
             <div className="feature-item wow fadeInUp delay-1-2s">
                <div className="icon">
                   <img src="/assets/img/icon/apprenticeship-program.png"/>
@@ -177,7 +177,7 @@ export default function Home() {
             </div>
          </div>
 
-         <div className="col-xl-4 col-md-6">
+         <div className="col-xl-4 col-md-6 d-none">
             <div className="feature-item wow fadeInUp delay-1-2s">
                <div className="icon">
                   <img src="/assets/img/icon/apprenticeship-program.png"/>
@@ -190,7 +190,7 @@ export default function Home() {
             </div>
          </div>
 
-         <div className="col-xl-4 col-md-6">
+         <div className="col-xl-4 col-md-6 d-none">
             <div className="feature-item wow fadeInUp delay-1-2s">
                <div className="icon">
                   <img src="/assets/img/icon/apprenticeship-program.png"/>

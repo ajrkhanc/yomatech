@@ -72,7 +72,7 @@ export default function Header() {
                                                 <li className='d-none'><a href="/services/dedicated-development-team">Dedicated Development Team</a></li>
                                                 <li  className='d-none'><a href="/services/delivering-the-right-solution">Delivering The Rright Solution</a></li>
                                                 <li><a href="#">IT Staff Augmentation</a></li>                                                
-                                                <li><a href="/services/software-product-development-services">Software Product Development Services</a></li>
+                                                <li  className='d-none'><a href="/services/software-product-development-services">Software Product Development Services</a></li>
                                                 <li className='d-none'><a href="/services/testing-and-qa">Testing and QA</a></li>
                                                 <li className='d-none'><a href="/services/web-development">Web Development</a></li>
                                             </ul>
