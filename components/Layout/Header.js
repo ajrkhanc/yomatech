@@ -61,7 +61,7 @@ export default function Header() {
                                             <a href="/">HOME</a>                                            
                                         </li>
                                         <li className="dropdown">
-                                            <a href="/about-us">ABOUT US</a>                                            
+                                            <a href="#">ABOUT US</a>                                            
                                         </li>
                                         <li className="dropdown"><a href="#">SOLUTIONS</a>
                                             <ul>
