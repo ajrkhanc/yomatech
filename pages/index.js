@@ -2,8 +2,24 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Slider from "react-slick";
+import React from 'react';
+import CountUp, { useCountUp } from 'react-countup';
 
 export default function Home() {
+   useCountUp({ ref: 'counter', end: 10, duration: 2 });
+   const [loading, setLoading] = React.useState(false);
+ 
+   const onStart = () => {
+     setLoading(true);
+   };
+ 
+   const onEnd = () => {
+     setLoading(false);
+   };
+ 
+   const containerProps = {
+     'aria-busy': loading,
+   };
 
    const registerUser = async event => {
       event.preventDefault()
@@ -79,6 +95,7 @@ export default function Home() {
          <title>YOMA Technologies Pvt. Ltd.</title>
          <meta name="description" content="Looking for a manpower company or best recruitment companies in India? YOMA is your one-stop-destination for all HR needs."/>
       </Head>
+      
       
  <section className="hero-section paddingb">
  <Slider {...settings}>
@@ -258,25 +275,51 @@ export default function Home() {
       <div className="row">
          <div className="col-lg-3 col-sm-6">
             <div className="success-item circle-style wow fadeInUp delay-0-2s color-one counted animated animateUP">
-               <span className="count-text plus" data-speed="5000" data-stop="150">150</span>
+               <span className="count-text plus" data-speed="5000" data-stop="150"><CountUp
+        end={150}
+        duration="3"
+        onStart={onStart}
+        onEnd={onEnd}
+        containerProps={containerProps}
+      /></span>
                <span>Clients served</span>
             </div>
          </div>
          <div className="col-lg-3 col-sm-6">
             <div className="success-item circle-style wow fadeInUp delay-0-4s color-two counted animated animateUP">
-               <span className="count-text plus" data-speed="5000" data-stop="100,000">100,000</span>
+               <span className="count-text plus" data-speed="5000" data-stop="100,000">
+               <CountUp
+        end={100000}
+        duration="3"
+        onStart={onStart}
+        onEnd={onEnd}
+        containerProps={containerProps}
+      />
+                  </span>
                <span>Access to profiles</span>
             </div>
          </div>
          <div className="col-lg-3 col-sm-6">
             <div className="success-item circle-style wow fadeInUp delay-0-6s color-one counted animated animateUP">
-               <span className="count-text plus" data-speed="5000" data-stop="12">12</span>
+               <span className="count-text plus" data-speed="5000" data-stop="12"><CountUp
+        end={12}
+        duration="3"
+        onStart={onStart}
+        onEnd={onEnd}
+        containerProps={containerProps}
+      /></span>
                <span>Presence across major cities</span>
             </div>
          </div>
          <div className="col-lg-3 col-sm-6">
             <div className="success-item circle-style wow fadeInUp delay-0-8s color-two counted animated animateUP">
-               <span className="count-text plus" data-speed="5000" data-stop="450">450</span>
+               <span className="count-text plus" data-speed="5000" data-stop="450"><CountUp
+        end={450}
+        duration="3"
+        onStart={onStart}
+        onEnd={onEnd}
+        containerProps={containerProps}
+      /></span>
                <span>Deployment locations</span>
             </div>
          </div>

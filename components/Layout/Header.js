@@ -77,7 +77,7 @@ export default function Header() {
                                                 <li className='d-none'><a href="/services/web-development">Web Development</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="/why-yoma-tech">WHY YOMA TECH</a></li>                                  
+                                        <li className='d-none'><a href="/why-yoma-tech">WHY YOMA TECH</a></li>                                  
                                         <li  className='d-none'><a href="/why-india">WHY INDIA</a></li>
                                         <li><a href="/blogs">BLOG</a></li>
                                         <li><a href="/contact-us">CONTACT US</a></li>
