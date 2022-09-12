@@ -10,7 +10,7 @@ export default function Header() {
                     <div className="header-top text-white ">
                         <div className="top-left">
                             <ul>
-                                <li>Call Us: <a href="callto:18001021345"> 1800 102 1345</a></li>
+                                <li><i className="fab fa-phone"></i><a href="callto:18001021345"> 1800 102 1345</a></li>
                                 <li>Email Us: <a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></li>
                             </ul>
                         </div>
@@ -61,7 +61,7 @@ export default function Header() {
                                             <a href="/">HOME</a>                                            
                                         </li>
                                         <li className="dropdown">
-                                            <a href="#">ABOUT US</a>                                            
+                                            <a href="/about-us">ABOUT US</a>                                            
                                         </li>
                                         <li className="dropdown"><a href="#">SOLUTIONS</a>
                                             <ul>

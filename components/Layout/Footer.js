@@ -45,7 +45,7 @@ export default function Footer() {
                                 </div>                                
                             </div>
                         </div>
-                        <div className="col-lg-2 col-sm-6">
+                        <div className="col-lg-3 col-sm-6">
                             <div className="footer-widget link-widget ml-20 rml-0">
                                 <h4 className="footer-title">OUR SOLUTIONS</h4>
                                 <ul className="list-style-three">
@@ -65,12 +65,12 @@ export default function Footer() {
                                     <li><i className="fas fa-map-marker-alt"></i>Units No. 120-121, First Floor, Vipul Trade Centre, Sohna Road, Sector 48, Gurugram, Haryana - 122018, India</li>
                                     <li><i className="fas fa-envelope"></i> <a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></li>
                                     <li><i className="fas fa-globe"></i><a href="/">www.yomamultinational.com</a></li>
-                                    <li><i className="fas fa-phone-alt"></i> <a href="callto:+91-8448188503">Associate helpline: +91 844 8188 503</a></li>
+                                    <li><i className="fas fa-phone-alt"></i> <a href="tel:+91-8448188503">Associate helpline: +91 844 8188 503</a></li>
                                     
                                 </ul>
                             </div>
                         </div>
-                        <div className="col-lg-3 col-sm-6">
+                        <div className="col-lg-2 col-sm-6">
                             <div className="footer-widget newsletter-widget">
                                 <h4 className="footer-title">NEWSLETTER</h4>
                                 <p>Subscribe to our monthly newsletter to receive important updates, suitable for your company and people.</p>

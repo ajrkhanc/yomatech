@@ -231,16 +231,15 @@ export default function Home() {
             <div className="col-lg-6 align-self-end">
                <div className="about-content pt-75 rpt-20 pr-70 rpr-0 wow fadeInRight delay-0-2s animated animateright">
                   <div className="section-title mb-35">
-                     <h2 className="mainh1"><span>Who</span> Are We</h2>
+                     <h2 className="mainh1"><span>About</span> Us</h2>
                   </div>
-                  <p>Founded on an innovative idea that every small or large-scaled business should run like a fortune 500 company, we introduced technology-driven HR services that work with clients all the way</p>
-                  <p>With an industry-leading suite of <strong>HR outsourcing services</strong> that are backed by cutting-edge technology, we provide one-stop-solution to the following-</p>
-                  <p>We can fulfill your need for <strong>third-party payroll companies</strong> with ease. Due to our seamless and exceptional services, we rank amongst the top <strong>payroll software companies</strong> in India.</p>
-                  <ul className="list-style-three mt-15">
-                     <li>Leaders of end-to-end employee management in India</li>
-                     <li>The only company in india to offer tech-based staffing and managed solutions</li>
-                     <li>India’s fastest growing staffing solutions company</li>
-                  </ul>
+                  <p className='text-justify'>
+                  YOMA was founded in 2012 and is part of the BYLD group backed by three decades of experience where Technology drives our business and we have a team to make it work. In today's era, dexterity and advancement are the key essentials for the success of our technology staffing where we always stand first to give the right choice to the outer world.We have designed our products and services in such as manner that they work as a substantial support system for the modern organizations in their success. Taking it from the management professionals to digital transformation tools, we have proven ourselves best in the club.
+                  </p>
+                  <p className='text-justify'>
+                  As a leading technology staffing company, Yoma Technology focus lies on creating more relevant platforms as per the need of the hour which not only helps us to get the right resource as per the client's requirements but on the other hand manages the workforce without any hassle.
+                  </p>
+                 
                   <a href="/about-us" className="theme-btn style-three mt-25">Read More →</a>
                </div>
             </div>
@@ -248,6 +247,9 @@ export default function Home() {
       </div>
    </div>
 </section>
+
+ 
+
 <section className="cournter-section-three bg-lighter text-center pt-65 rpt-95 pb-70 rpb-50">
    <div className="container">
       <div className="section-title mb-55">
@@ -279,7 +281,7 @@ export default function Home() {
             </div>
          </div>
       </div>
-      <div className="testimonial-wrap1 row">
+      <div className="testimonial-wrap1 row d-none">
 
          <div className="wow fadeInLeft delay-0-2s col-sm-4">
           <div className="testimonial-item mpaj"> 
@@ -393,29 +395,28 @@ export default function Home() {
                      <div className="row">
                         <div className="col-sm-6">
                            <div className="form-group">
-                              <label htmlFor="name">Your Name</label>
+                              
                               <input type="text" id="name" name="name" className="form-control" placeholder="Name*" required=""/>
                            </div>
                         </div>
                         <div className="col-sm-6">
                            <div className="form-group">
-                              <label htmlFor="email">Your email address</label>
+                              
                               <input type="email" id="email" name="email" className="form-control" placeholder="Email*" required=""/>
                            </div>
                         </div>
-                        <div className="col-sm-6">
+                        <div className="col-sm-12">
                            <div className="form-group">
-                              <label htmlFor="number">Phone No.</label>
+                              
                               <input type="text" id="number" name="number" className="form-control" placeholder="Phone No.*" required=""/>
                            </div>
                         </div>
-                        <div className="col-sm-6">
-                           <div className="form-group">
-                              <label htmlFor="number">Message</label>
-                              <input type="text" id="message" name="message" className="form-control" placeholder="Message"/>
-                           </div>
-                        </div>
                         <div className="col-sm-12">
+                                            <div className="form-group">                                                
+                                            <textarea name="Message" className="form-control" id="Message" cols="30" rows="3" placeholder="Your Message"></textarea>
+                                            </div>
+                                        </div>
+                        <div className="col-sm-12 d-none">
                            <div className="form-group">
                               <label htmlFor="service">Business Entity*</label>
                               <select id="service" name="leadsquared_mx_Business_Entity">
@@ -442,7 +443,7 @@ export default function Home() {
                            <i className="fas fa-phone-alt"></i>
                            <div className="content">
                               <span>Call Us</span>
-                              <h5><a href="callto:+91 844 8188 503">+91 844 8188 503</a></h5>
+                              <h5><a href="tel:+91 844 8188 503">+91 844 8188 503</a></h5>
                            </div>
                         </li>
                         <li>
