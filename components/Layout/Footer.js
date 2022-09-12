@@ -76,7 +76,7 @@ export default function Footer() {
                                 <p>Subscribe to our monthly newsletter to receive important updates, suitable for your company and people.</p>
                                 <form id="footerformreset" method="post" onSubmit={registerUser}>
                                     <input type="email" name="fmail" placeholder="Your Email Address" required/>
-                                    <button type="submit" value="submit"><i className="fa fa-location-arrow"></i></button>
+                                    <button type="submit" value="submit"><i className="fa fa-paper-plane"></i></button>
                                     <label id="submitbuttonform"></label>
                                 </form>
                                 <p id="showlabel" style={{ display: "none" }}></p>
