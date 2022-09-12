@@ -49,12 +49,12 @@ export default function Footer() {
                             <div className="footer-widget link-widget ml-20 rml-0">
                                 <h4 className="footer-title">OUR SOLUTIONS</h4>
                                 <ul className="list-style-three">
-                                    <li><a href="/general-staffing">General Staffing</a></li>
-                                    <li><a href="/industrial-staffing">Industrial Staffing</a></li>
-                                    <li><a href="/staff-augmentation">Staff Augmentation</a></li>
-                                    <li><a href="/managed-services">Managed Services</a></li>
-                                    <li><a href="/shared-resources-program">Shared Resource Program</a></li>
-                                    <li><a href="/apprenticeship-program">Apprenticeship Program (NAPS)</a></li>
+                                    <li><a href="#">Cloud and Devops</a></li>
+                                    <li><a href="#">Custom Software Development</a></li>
+                                    <li><a href="#">Mobile App Development</a></li>
+                                    <li><a href="#">Testing and QA</a></li>
+                                    <li><a href="#">Dedicated Development Team</a></li>
+                                    
                                 </ul>
                             </div>
                         </div>
