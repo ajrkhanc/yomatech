@@ -251,10 +251,10 @@ export default function Home() {
                      <h2 className="mainh1"><span>About</span> Us</h2>
                   </div>
                   <p className='text-justify'>
-                  YOMA was founded in 2012 and is part of the BYLD group backed by three decades of experience where Technology drives our business and we have a team to make it work. In today's era, dexterity and advancement are the key essentials for the success of our technology staffing where we always stand first to give the right choice to the outer world.We have designed our products and services in such as manner that they work as a substantial support system for the modern organizations in their success. Taking it from the management professionals to digital transformation tools, we have proven ourselves best in the club.
+                  YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work. In today's era, dexterity and advancement are the fundamental essentials for the success of our technology staffing, where we always stand first to give a right choice to the outer world. Our products and services are designed and aligned to act as a powerful support system for modern organizations in their success stories. From management professionals to digital transformation tools, we have proven our worth and emerged as the best in the club.
                   </p>
                   <p className='text-justify'>
-                  As a leading technology staffing company, Yoma Technology focus lies on creating more relevant platforms as per the need of the hour which not only helps us to get the right resource as per the client's requirements but on the other hand manages the workforce without any hassle.
+                  As a leading technology staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
                   </p>
                  
                   <a href="/about-us" className="theme-btn style-three mt-25">Read More →</a>
