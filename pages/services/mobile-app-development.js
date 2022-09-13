@@ -110,7 +110,7 @@ export default function WebDevelopment() {
                     <div className="row justify-content-center">
                         <div className="col-sm-12 text-center">
                             <p className="wow fadeInUp delay-0-4s animated animateUP">
-                            Mobility in app development has proven to be a compelling reason for businesses to hire a software development firm. YOMA's comprehensive experience developing native <br></br>iOS, Android, and cross-platform apps promise more outstanding performance, longer sustainability, and seamless navigation.
+                            Mobility in app development has proven to be a compelling reason for businesses to hire a software development firm. YOMA's comprehensive experience developing native iOS, Android, and cross-platform apps promises to render outstanding performance, longer sustainability, and seamless navigation.
                             </p>                            
                         </div>                         
                     </div>
@@ -127,18 +127,18 @@ export default function WebDevelopment() {
 
                                 <div className="col-sm-4 innerboxcsd1 wow fadeInUp delay-0-4s animated animateUP">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Design & Prototyping of apps:</h3>
+                                        <h3 className="h3themecolor">Design & Prototyping of Apps:</h3>
                                         <p className="text-justify">
-                                        Designing visually appealing, interactive, and user-friendly apps have always been at the forefront of our mobile app development services. Our design team aims to create a highly engaging, easy-to-use, and consistent user interface across different types of mobile platforms.
+                                        Designing visually appealing, interactive, and user-friendly apps has always been at the forefront of our mobile app development services. The sole aim of our designing team is to create an engaging, easy-to-use, and consistent user interface across all platforms of mobiles.
                                         </p>
                                     </div>
                                 </div>
 
                                 <div className="col-sm-4 innerboxcsd1 wow fadeInUp delay-0-4s animated animateUP">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Native app Development:</h3>
+                                        <h3 className="h3themecolor">Native App Development:</h3>
                                         <p className="text-justify">
-                                        We have a team of experienced iOS and Android app developers who will learn about your needs and requirements and turn them into mobile apps that are unique, secure, and engaging. If you want to create an app for a specific platform, YOMA is the place to be.
+                                        Experienced iOS and Android app developers will learn about your needs and requirements and turn them into mobile apps that are unique, secure, and engaging. YOMA is the place to be if you want to create an app for a specific platform.
                                         </p>
                                     </div>
                                 </div>

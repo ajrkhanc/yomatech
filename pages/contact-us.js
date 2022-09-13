@@ -85,24 +85,24 @@ const ContactUs = () => {
                         </div>
                     <div className="contact-info-area mb-80">
 
-                        <div className="contact-info-item wow fadeInUp delay-0-2s">
-                            <i className="fa fa-location-arrow"></i>
-                            <h5>For our associate</h5>
-                            <p>For any queries please reach out to us via our dedicated information centre. Email: <a href="mailto:associatehelpline@yomamultinational.com">associatehelpline@yomamultinational.com</a> Call: <a href="tel:8448188503">8448188503</a>.</p>
-                            <a target="_blank" className="theme-btn" href="https://app.proanto.com/">Associate login</a>
+                        <div className="contact-info-item wow fadeInUp delay-0-2s padding-c">
+                            <i className="far fa-map"></i>
+                            
+                            <p>Units No. 120-121, First Floor, Vipul Trade Centre, Sohna Road, Sector 48, Gurugram, Haryana - 122018, India</p>
+                          
                         </div>
 
                         <div className="contact-info-item wow fadeInUp delay-0-2s">
-                            <i className="fa fa-location-arrow"></i>
-                            <h5>For our clients</h5>
-                            <p>For any queries please reach out to us via our dedicated information centre. Email: <a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a> Call: <a href="tel:1800 102 1345">1800 102 1345</a>.</p>
-                            <a target="_blank" className="theme-btn" href="https://app.proanto.com/">Client login</a>
+                            <i className="far fa-envelope"></i>
+                           
+                            <p><a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></p>
+                            
                         </div>
 
                         <div className="contact-info-item wow fadeInUp delay-0-2s">
-                            <i className="fa fa-location-arrow"></i>
-                            <h5>For job seekers</h5>
-                            <p>To get a job, please give a missed call at- 8448188503 & get in touch. Email: <a href="mailto:sourcinglead1@yomamultinational.com">sourcinglead1@yomamultinational.com</a> Call: <a href="tel:8448188503">8448188503</a>.</p>
+                            <i className="fas fa-phone-alt"></i>
+                            
+                            <p><a href="tel:+918448188503">+91 844 8188 503</a></p>
                         </div>
                         
 

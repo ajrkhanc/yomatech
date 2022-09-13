@@ -298,5 +298,13 @@
       box-shadow:none !important;
     }
 
+    .padding-c p{ width: 100% !important; max-width: 100% !important;}
+
+    .padding-c{
+      padding-left: 10px;
+      padding-right: 10px;
+  
+    }
+
 
 
