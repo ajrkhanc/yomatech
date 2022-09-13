@@ -18,10 +18,10 @@ export default function WhyYomaTech() {
 
     
 
-         <section className="what-we-do bg-lighter pt-50 rpt-40 pb-40 rpb-30">
+        <section className="what-we-do ccw pt-50 rpt-40 pb-40 rpb-30">
             <div className="container">
                 <div className="section-title text-center mb-65">
-                <h2 className="mainh1"><span>Why </span> Yoma Tech</h2> 
+                <h2 className="mainh1"><span>Why </span> Yoma Tech?</h2> 
                 </div>
                 <div className="row justify-content-center">
                     <div className="col-md-4 col-sm-6">
@@ -44,19 +44,21 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Scalable team:</h5>
-                            <p>With the changing demands of projects, we scale up talented resources to meet your custom business demand and generate profitable results.</p>
+                            <p>Based on diverse project requirements, we scale up talented resources to meet your custom business demands and generate profitable results.</p>
                         </div>
                         </div>
                     </div>
                     <div className="col-md-4 col-sm-6">
-                        <div className="feature-item wow fadeInUp delay-0-6s animated animateUP">
+                        <div className="feature-item wow fadeInUp delay-0-6s animated animateUP prr">
                         <a className="feature-btn"><i className="fas fa-long-arrow-alt-right"></i></a>
                         <div className="icon">
                         <img className="imgicon70" src="/assets/img/icon/staff-augmentation.png" />
                         </div>
                         <div className="feature-content">
                             <h5>Progressive Roadmap:</h5>
-                            <p>We are a result-oriented software development company that carefully comprehends the client's project details and offers the best-fit technology Solution.</p>
+                            <p>
+                            We are a result-oriented software development company that carefully comprehends the client's project details and offers the best-fit technology Solution.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -68,7 +70,9 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Flexible Engagement Model:</h5>
-                            <p>We enable transparency and scalability at all engagement levels with a unique amalgamation of skilled developers and cutting-edge technologies.</p>
+                            <p>
+                            We enable transparency and scalability at all engagement levels with a unique amalgamation of skilled developers and cutting-edge technologies.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -80,7 +84,9 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Consistent Delivery:</h5>
-                            <p>Depending on the project's requirement, we use a plethora of software development techniques such as Scrum, Scrum ban, and Scaled Agile Framework.</p>
+                            <p>
+                            Depending on the project's requirement, we use various software development techniques such as Scrum, Scrum ban, and Scaled Agile Framework.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -92,7 +98,7 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Efficient project management:</h5>
-                            <p>We endeavour to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.</p>
+                            <p>We endeavor to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.</p>
                         </div>
                         </div>
                     </div>
@@ -105,7 +111,9 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Advantageous experience:</h5>
-                            <p>With multitudes of projects handled and solutions catered to various industries, we have demonstrated excellent business results with our domain expertise.</p>
+                            <p>
+                            We have proved our mettle by offering our domain expertise to various industries and projects through tailor-made solutions to deliver excellent business results.
+                            </p>
                         </div>
                         </div>
                     </div>                                      

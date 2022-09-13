@@ -30,13 +30,44 @@ export default function index() {
                             <h2 className="mainh1"><span>About</span> Us</h2>
                         </div>
                         <p className="text-justify">
-                        YOMA was founded in 2012 and is part of the BYLD group backed by three decades of experience where Technology drives our business and we have a team to make it work. In today's era, dexterity and advancement are the key essentials for the success of our technology staffing where we always stand first to give the right choice to the outer world.We have designed our products and services in such as manner that they work as a substantial support system for the modern organizations in their success. Taking it from the management professionals to digital transformation tools, we have proven ourselves best in the club.
+                        YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work. In today's era, dexterity and advancement are the fundamental essentials for the success of our technology staffing, where we always stand first to give a right choice to the outer world. Our products and services are designed and aligned to act as a powerful support system for modern organizations in their success stories. From management professionals to digital transformation tools, we have proven our worth and emerged as the best in the club.
                         </p>
                         
                         <p className="text-justify">
-                        As a leading technology staffing company, Yoma Technology focus lies on creating more relevant platforms as per the need of the hour which not only helps us to get the right resource as per the client's requirements but on the other hand manages the workforce without any hassle.
+                        As a leading technology staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
                         </p>
-                         
+
+                        <p className="text-justify">
+                        Apart from handling your diverse staffing needs, we are a one-stop solution for SaaS (Software-as-a-Service) development. We can offer you a cloud-based SaaS application that is highly responsive, easily accessible, and compatible with any device.
+                        </p>                         
+                        </div>
+                    </div>
+                </div>
+            </div>
+         </section>
+
+         <section className="about-section aboutccs pt-50 pb-30">
+            <div className="container">
+                <div className="row align-items-center">                    
+                    <div className="col-lg-6">
+                        <div className="about-content wow fadeInRight delay-0-2s animated animateright">                        
+                        <p className="text-justify">
+                        We provide numerous IT services for MSMEs, corporate giants, and MNCs based on their business and staffing requirements. Our talented team of HR professionals can offer you a skilled workforce, staff augmentation services, and permanent recruitment services within your desired budget. 
+                        </p>                        
+                        <p className="text-justify">
+                        Our company has an expert team of experienced web developers, UI/UX designers, testers, and others to offer custom software development services based on your changing business requirements. We have in-depth knowledge and expertise of the latest cutting-edge web development technologies to provide mobile-friendly, robust, feature-loaded, and user-friendly customized software solutions.
+                        </p>
+                        <p className="text-justify">
+                        Taking our development services a notch higher, we offer mobile development services for iOS and Android platforms to build native or cross-platform mobile apps. From the designing and prototyping of mobile apps to app development and final testing, we deliver feature-led, engaging, and scalable mobile apps for your diverse business needs.
+                        </p>
+                        <p className="text-justify">
+                        So, explore the diverse solutions and business application areas of Yoma Technologies and reach out to us for your corporate requirements.
+                        </p> 
+                        </div>
+                    </div>
+                    <div className="col-lg-6">
+                        <div className="wow fadeInLeft delay-0-2s animated animateleft text-center">
+                        <img src="/assets/img/ui-ux.jpg" alt="About"/>
                         </div>
                     </div>
                 </div>
@@ -44,10 +75,10 @@ export default function index() {
          </section>
 
          
-         <section className="what-we-do bg-lighter pt-50 rpt-40 pb-40 rpb-30">
+         <section className="what-we-do ccw pt-50 rpt-40 pb-40 rpb-30">
             <div className="container">
                 <div className="section-title text-center mb-65">
-                <h2 className="mainh1"><span>Why </span> Yoma Tech</h2> 
+                <h2 className="mainh1"><span>Why </span> Yoma Tech?</h2> 
                 </div>
                 <div className="row justify-content-center">
                     <div className="col-md-4 col-sm-6">
@@ -70,19 +101,21 @@ export default function index() {
                         </div>
                         <div className="feature-content">
                             <h5>Scalable team:</h5>
-                            <p>With the changing demands of projects, we scale up talented resources to meet your custom business demand and generate profitable results.</p>
+                            <p>Based on diverse project requirements, we scale up talented resources to meet your custom business demands and generate profitable results.</p>
                         </div>
                         </div>
                     </div>
                     <div className="col-md-4 col-sm-6">
-                        <div className="feature-item wow fadeInUp delay-0-6s animated animateUP">
+                        <div className="feature-item wow fadeInUp delay-0-6s animated animateUP prr">
                         <a className="feature-btn"><i className="fas fa-long-arrow-alt-right"></i></a>
                         <div className="icon">
                         <img className="imgicon70" src="/assets/img/icon/staff-augmentation.png" />
                         </div>
                         <div className="feature-content">
                             <h5>Progressive Roadmap:</h5>
-                            <p>We are a result-oriented software development company that carefully comprehends the client's project details and offers the best-fit technology Solution.</p>
+                            <p>
+                            We are a result-oriented software development company that carefully comprehends the client's project details and offers the best-fit technology Solution.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -94,7 +127,9 @@ export default function index() {
                         </div>
                         <div className="feature-content">
                             <h5>Flexible Engagement Model:</h5>
-                            <p>We enable transparency and scalability at all engagement levels with a unique amalgamation of skilled developers and cutting-edge technologies.</p>
+                            <p>
+                            We enable transparency and scalability at all engagement levels with a unique amalgamation of skilled developers and cutting-edge technologies.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -106,7 +141,9 @@ export default function index() {
                         </div>
                         <div className="feature-content">
                             <h5>Consistent Delivery:</h5>
-                            <p>Depending on the project's requirement, we use a plethora of software development techniques such as Scrum, Scrum ban, and Scaled Agile Framework.</p>
+                            <p>
+                            Depending on the project's requirement, we use various software development techniques such as Scrum, Scrum ban, and Scaled Agile Framework.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -118,7 +155,7 @@ export default function index() {
                         </div>
                         <div className="feature-content">
                             <h5>Efficient project management:</h5>
-                            <p>We endeavour to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.</p>
+                            <p>We endeavor to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.</p>
                         </div>
                         </div>
                     </div>
@@ -131,7 +168,9 @@ export default function index() {
                         </div>
                         <div className="feature-content">
                             <h5>Advantageous experience:</h5>
-                            <p>With multitudes of projects handled and solutions catered to various industries, we have demonstrated excellent business results with our domain expertise.</p>
+                            <p>
+                            We have proved our mettle by offering our domain expertise to various industries and projects through tailor-made solutions to deliver excellent business results.
+                            </p>
                         </div>
                         </div>
                     </div>                                      

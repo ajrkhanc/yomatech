@@ -286,5 +286,17 @@
       background-image: url(/assets/img/banner/innovation-is-right-here-for-you.jpg);
     }
 
+    .aboutccs{
+      background: #eeecfa;
+    }
+    .prr{ padding-right: 14px !important;}
+    .ccw .feature-item{border: 2px solid #2470b7 !important;}
+
+    .ccw .feature-item .feature-btn{ 
+      background-color: #2e68b0 !important;
+      color: #fff !important;
+      box-shadow:none !important;
+    }
+
 
 
