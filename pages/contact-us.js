@@ -88,21 +88,21 @@ const ContactUs = () => {
                         <div className="contact-info-item wow fadeInUp delay-0-2s padding-c">
                             <i className="far fa-map"></i>
                             
-                            <p>Units No. 120-121, First Floor, Vipul Trade Centre, Sohna Road, Sector 48, Gurugram, Haryana - 122018, India</p>
+                            <p>BYLD Group: 2nd and 3rd Floor, Plot No. 48, Sector - 44, Opp. EPF Regional Office Gurugram, Haryana - 122003</p>
                           
                         </div>
 
                         <div className="contact-info-item wow fadeInUp delay-0-2s">
                             <i className="far fa-envelope"></i>
                            
-                            <p><a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></p>
+                            <p><a href="mailto:info@yomatechnologies.in">info@yomatechnologies.in</a></p>
                             
                         </div>
 
                         <div className="contact-info-item wow fadeInUp delay-0-2s">
                             <i className="fas fa-phone-alt"></i>
                             
-                            <p><a href="tel:+918448188503">+91 844 8188 503</a></p>
+                            <p><a href="tel:+918448188503">1800-102-1345</a></p>
                         </div>
                         
 
@@ -216,14 +216,7 @@ const ContactUs = () => {
 
 
             
-        <div className="contact-page-map">
-            <div className="our-location">
-                <div className="section-title text-center pb-20">                            
-                    <h2 className="mainh1"><span>Our </span>presence</h2>
-                </div>
-            <iframe loading="lazy" src="https://www.google.com/maps/d/embed?mid=1BumsIZfHc5AelgKSYRgALT6JOYw62k9o&#038;hl=en" width="100%" height="550"></iframe>
-            </div>
-        </div>
+        
         </>
     )
 }
