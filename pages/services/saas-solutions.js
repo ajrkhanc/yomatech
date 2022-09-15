@@ -152,10 +152,10 @@ export default function GeneralStaffing() {
                         </p>                        
                        
                         <ul className="list-style-three mt-15">
-                            <li><span className="spana">(A.)</span> An end–to–end solution for the employer & the employee.</li>
-                            <li><span className="spana">(B.)</span> GeniusPayroll & GeniusHRMS is easy to configure, customizable, and user-friendly!!</li>
-                            <li><span className="spana">(C.)</span> The suite can be implemented with a perpetual license or a cloud model.</li>
-                            <li><span className="spana">(D.)</span> The suite integrates easily with existing applications.</li>
+                            <li>An end–to–end solution for the employer & the employee.</li>
+                            <li>GeniusPayroll & GeniusHRMS is easy to configure, customizable, and user-friendly.</li>
+                            <li>The suite can be implemented with a perpetual license or a cloud model.</li>
+                            <li>The suite integrates easily with existing applications.</li>
                         </ul>                       
                         </div>
                     </div>
@@ -179,10 +179,10 @@ export default function GeneralStaffing() {
                          </div>                            
                              <h5>Sales representatives can submit four different claims through Proanto.</h5>
                              <ul className="list-style-three mt-15 pb-10">
-                                <li>1. Travel claims</li>
-                                <li>2. Mobile claims</li>
-                                <li>3. Hotel claims</li>
-                                <li>4. Courier and stationery</li>                                                                                   
+                                <li> Travel claims</li>
+                                <li> Mobile claims</li>
+                                <li> Hotel claims</li>
+                                <li> Courier and stationery</li>                                                                                   
                              </ul>
                              <p className="text-justify">
                              Travel Claim has been categorized as DA & TA, which gets auto-calculated according to the sales representative market, working through Proanto. DA & TA are directly linked to the distance traveled by the Sales Representative during their market work. Every time they work on the app, geotag gets captured, and with the help of the Google route optimization technique, we calculate the best route for that. DA & TA also have some validations as per the client’s travel policy. It is generated once the duration (month) is over and the sales representative submits data off.

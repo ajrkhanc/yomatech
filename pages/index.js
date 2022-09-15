@@ -177,7 +177,7 @@ export default function Home() {
             <div className="col-lg-6 align-self-end">
                <div className="about-content pt-75 rpt-20 pr-70 rpr-0 wow fadeInRight delay-0-2s animated animateright">
                   <div className="section-title mb-35">
-                     <h2 className="mainh1"><span>About</span> Us</h2>
+                     <h2 className="mainh1"><span>About</span> us</h2>
                   </div>
                   <p className='text-justify'>
                   YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work.
@@ -186,7 +186,7 @@ export default function Home() {
                   As a leading IT staffing company, YOMA Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
                   </p>
                   <p className='text-justify'>
-                  When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and Permanent Recruitment solutions.
+                  When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and permanent recruitment solutions.
                   </p>
                  
                   <a href="/about-us" className="theme-btn style-three mt-25 newbtn">Read More →</a>
@@ -425,7 +425,7 @@ export default function Home() {
                            <i className="fas fa-envelope"></i>
                            <div className="content">
                               <span>Write to Us</span>
-                              <h5><a href="mailto:info@yomatechnologies.in">info@yomatechnologies.in</a></h5>
+                              <h5><a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></h5>
                            </div>
                         </li>
                         <li>

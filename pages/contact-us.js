@@ -62,7 +62,7 @@ const ContactUs = () => {
                         <div className="contact-info-item wow fadeInUp delay-0-2s">
                             <i className="far fa-envelope"></i>
                            
-                            <p><a href="mailto:info@yomatechnologies.in">info@yomatechnologies.in</a></p>
+                            <p><a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></p>
                             
                         </div>
 

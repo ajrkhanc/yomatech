@@ -32,11 +32,11 @@ export default function StaffAugmentation() {
                 <div className="row align-items-center">                    
                     <div className="col-lg-6">
                         <div className="section-title text-left mb-0">
-                            <h2 className="mainh1"><span>IT </span>Staffing </h2> 
+                            <h2 className="mainh1"><span>IT </span>staffing </h2> 
                         </div>
                         <div className="about-content wow fadeInRight delay-0-2s animated animateright">                        
                         <p className="text-justify">
-                        <b>Yoma,</b> one of the leading IT staffing companies, enables you to achieve and optimize the most strategic and transformational components of business success - the right people with the right skills, competence, and attitude. As one of the industry's most respected IT staffing companies, we offer a wide range of temporary staffing services, including IT Staff Augmentation, and Permanent Recruitment.
+                        <b>Yoma,</b> one of the leading IT staffing companies, enables you to achieve and optimize the most strategic and transformational components of business success - the right people with the right skills, competence, and attitude. As one of the industry's most respected IT staffing companies, we offer a wide range of temporary staffing services, including IT staff augmentation, and permanent recruitment.
                         </p>                        
                         <p className="text-justify">
                         We take pride in our combined experience of decades to  find the best talents that meet your organization’s specific needs. We create the most amiable platform for you to meet the best candidates who deliver on your requirements.
