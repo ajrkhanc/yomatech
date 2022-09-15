@@ -8,7 +8,7 @@ export default function StaffAugmentation() {
   
       
         <Head>
-        <title>Get Access to the Best Staff Augmentation Services by YOMA</title>
+        <title>Custom Software Development - YOMA Technologies</title>
         <meta name="description" content="Fulfill your short-term needs with long-term service. YOMA is one of the best staffing solutions services for staff augmentation."/>
         </Head>
         <section>
@@ -33,7 +33,7 @@ export default function StaffAugmentation() {
                                 <div className="icon">
                                 <img className="imgicon70" src="/assets/img/icon/documentation.png" />
                                 </div>
-                                <h6>Bespoke Software Development</h6>
+                                <h6>Bespoke software development</h6>
                             </div>
                             </a>
                         </div>
@@ -43,7 +43,7 @@ export default function StaffAugmentation() {
                                 <div className="icon">
                                 <img className="imgicon70" src="/assets/img/icon/statutory-compliance.png" />
                                 </div>
-                                <h6><a>Application Migration and Re-engineering</a></h6>
+                                <h6><a>Application migration and re-engineering</a></h6>
                             </div>
                             </a>
                         </div>
@@ -63,7 +63,7 @@ export default function StaffAugmentation() {
                                 <div className="icon">
                                 <img className="imgicon70" src="/assets/img/icon/disbursement.png" />
                                 </div>
-                                <h6><a>SaaS <br></br>Application</a></h6>
+                                <h6><a>SaaS <br></br>application</a></h6>
                             </div>
                             </a>
                         </div>
@@ -73,7 +73,7 @@ export default function StaffAugmentation() {
                                 <div className="icon">
                                 <img className="imgicon70" src="/assets/img/icon/exit-formalities.png" />
                                 </div>
-                                <h6><a>Application <br></br>Integration</a></h6>
+                                <h6><a>Application <br></br>integration</a></h6>
                             </div>
                             </a>
                         </div>
@@ -102,7 +102,7 @@ export default function StaffAugmentation() {
 
                                 <div className="col-sm-4 innerboxcsd1">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Bespoke Software Development</h3>
+                                        <h3 className="h3themecolor">Bespoke software development</h3>
                                         <p className="text-justify">
                                         It is a superior custom software development service combined with expert resources and technical processes to strengthen overall business strategy. A robust approach to prototyping and development planning for creating applications from the very scratch across web, cloud, and mobile platforms. Also, it ensures seamless integration, flexibility, and business profitability.
                                         </p>
@@ -111,7 +111,7 @@ export default function StaffAugmentation() {
 
                                 <div className="col-sm-4 innerboxcsd1">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Application Migration and Re-engineering</h3>
+                                        <h3 className="h3themecolor">Application migration and re-engineering</h3>
                                         <p className="text-justify">
                                         Modernize legacy applications and improve performance by redesigning refactoring or migration tools for fully customized, feature-rich applications. Our engineers ensure flawless software reengineering with advanced enhancements of new features, improved UI/UX, and modern security technologies based on cutting-edge.
                                         </p>
@@ -129,7 +129,7 @@ export default function StaffAugmentation() {
 
                                 <div className="col-sm-4 innerboxcsd1">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">SaaS Application</h3>
+                                        <h3 className="h3themecolor">SaaS application</h3>
                                         <p className="text-justify">
                                         Leverage our years of experience building SaaS-based business applications to solve your specific business challenges to increase productivity, reduce risk, and enhance customer experience. We are experts in building SaaS applications using cloud services with different technologies and frameworks.
                                         </p>
@@ -138,7 +138,7 @@ export default function StaffAugmentation() {
 
                                 <div className="col-sm-4 innerboxcsd1">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Application Integration</h3>
+                                        <h3 className="h3themecolor">Application integration</h3>
                                         <p className="text-justify">
                                         End-to-end application integration services optimize workflow between disparate business sources that hinders business progress. Our software integration engineers offer state-of-the-art services between the on-premise cloud of offline data environments for smoother and more flexible business operations.
                                         </p>

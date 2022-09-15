@@ -9,7 +9,7 @@ export default function index() {
       
         <Head>
         <title>ABOUT US - Yomamultinational</title>
-        <meta name="description" content="1800 102 1345 yoma.info@byldgroup.com Home ABOUT US Who We Are Mission, Vision & Values Life at Yoma Solutions General Staffing Industrial Staffing Staff Augmentation Managed Services Shared Resource Program Apprenticeship Program (NAPS) Client Corner Client Testimonials Our Clientele Client Login Scrap Book Associate Corner Job Openings Get a Job Associate Login Become A Partner Careers … Continue reading | ABOUT US "/>
+        <meta name="description" content="1800 102 1345 yoma.info@byldgroup.com Home ABOUT US Who We Are Mission, Vision & Values Life at YOMA Solutions General Staffing Industrial Staffing Staff Augmentation Managed Services Shared Resource Program Apprenticeship Program (NAPS) Client Corner Client Testimonials Our Clientele Client Login Scrap Book Associate Corner Job Openings Get a Job Associate Login Become A Partner Careers … Continue reading | ABOUT US "/>
         </Head>
         
         <section>
@@ -34,7 +34,7 @@ export default function index() {
                         </p>
                         
                         <p className="text-justify">
-                        As a leading IT staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
+                        As a leading IT staffing company, YOMA Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
                         </p>
 
                         <p className="text-justify">
@@ -74,7 +74,7 @@ export default function index() {
          <section className="what-we-do ccw pt-50 rpt-40 pb-40 rpb-30">
             <div className="container">
                 <div className="section-title text-center mb-65">
-                <h2 className="mainh1"><span>Why </span> Yoma Tech?</h2> 
+                <h2 className="mainh1"><span>Why </span> YOMA Tech?</h2> 
                 </div>
                 <div className="row justify-content-center">
                     <div className="col-md-4 col-sm-6">
@@ -110,7 +110,7 @@ export default function index() {
                         <img className="imgicon70" src="/assets/img/icon/staff-augmentation.png" />
                         </div>
                         <div className="feature-content">
-                            <h5>Progressive Roadmap:</h5>
+                            <h5>Progressive roadmap:</h5>
                             <p>
                             We are a result-oriented software development company that carefully comprehends the client's project details and offers the best-fit technology Solution.
                             </p>
@@ -124,7 +124,7 @@ export default function index() {
                         <img className="imgicon70" src="/assets/img/icon/manage-services.png" />
                         </div>
                         <div className="feature-content">
-                            <h5>Flexible Engagement Model:</h5>
+                            <h5>Flexible engagement model:</h5>
                             <p>
                             We enable transparency and scalability at all engagement levels with a unique amalgamation of skilled developers and cutting-edge technologies.
                             </p>
@@ -138,7 +138,7 @@ export default function index() {
                         <img className="imgicon70" src="/assets/img/icon/shared-resource-program.png" />
                         </div>
                         <div className="feature-content">
-                            <h5>Consistent Delivery:</h5>
+                            <h5>Consistent delivery:</h5>
                             <p>
                             Depending on the project's requirement, we use various software development techniques such as Scrum, Scrum ban, and Scaled Agile Framework.
                             </p>

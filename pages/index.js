@@ -126,7 +126,7 @@ export default function Home() {
                   <img src="/assets/img/icon/general-staffing.png"/>                                
                </div>
                <div className="feature-content">
-                  <h5>Custom Software development</h5>
+                  <h5>Custom software development</h5>
                   <p>Develop a custom software application following the changing needs of business and cutting-edge technologies...</p>
                   <a href="/services/custom-software-development" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
                </div>
@@ -139,7 +139,7 @@ export default function Home() {
                   <img src="/assets/img/icon/staff-augmentation.png"/>
                </div>
                <div className="feature-content">
-                  <h5>Mobile App Development</h5>
+                  <h5>Mobile app development</h5>
                   <p>Mobility in app development has proven to be a compelling reason for businesses to hire a software development firm...</p>
                   <a href="/services/mobile-app-development" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
                </div>
@@ -155,7 +155,7 @@ export default function Home() {
                   <img src="/assets/img/icon/apprenticeship-program.png"/>
                </div>
                <div className="feature-content">
-                  <h5>IT Staffing</h5>
+                  <h5>IT staffing</h5>
                   <p>Yoma, one of the leading IT staffing companies, enables you to achieve and optimize the most strategic and transformational components...</p>
                   <a href="/services/it-staffing" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
                </div>
@@ -183,7 +183,7 @@ export default function Home() {
                   YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work.
                   </p>
                   <p className='text-justify'>
-                  As a leading IT staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
+                  As a leading IT staffing company, YOMA Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
                   </p>
                   <p className='text-justify'>
                   When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and Permanent Recruitment solutions.
@@ -418,14 +418,14 @@ export default function Home() {
                            <i className="fas fa-phone-alt"></i>
                            <div className="content">
                               <span>Call Us</span>
-                              <h5><a href="tel:+91 844 8188 503">+91 844 8188 503</a></h5>
+                              <h5><a href="tel:1800-102-1345">1800-102-1345</a></h5>
                            </div>
                         </li>
                         <li>
                            <i className="fas fa-envelope"></i>
                            <div className="content">
                               <span>Write to Us</span>
-                              <h5><a href="mailto:yoma.info@byldgroup.com">yoma.info@byldgroup.com</a></h5>
+                              <h5><a href="mailto:info@yomatechnologies.in">info@yomatechnologies.in</a></h5>
                            </div>
                         </li>
                         <li>

@@ -39,44 +39,11 @@ const ContactUs = () => {
         <>
 
        <Head>
-         <title>CONTACT US - Yomamultinational</title>
+         <title>CONTACT US - YOMA Technologies</title>
          <meta name="description" content="1800 102 1345 yoma.info@byldgroup.com Home ABOUT US Who We Are Mission, Vision & Values Life at Yoma Solutions General Staffing Industrial Staffing Staff Augmentation Managed Services Shared Resource Program Apprenticeship Program (NAPS) Client Corner Client Testimonials Our Clientele Client Login Scrap Book Associate Corner Job Openings Get a Job Associate Login Become A Partner Careers … Continue reading CONTACT US"/>
       </Head>
 
-      <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
-      <script
-            dangerouslySetInnerHTML={{
-              __html: `
-              $(function() {
-               var overlay = $('<div id="overlay"></div>');
-               overlay.show();
-               overlay.appendTo(document.body);
-               $('.popup').show();
-               $('.close').click(function() {
-                 $('.popup').hide();
-                 overlay.appendTo(document.body).remove();
-                 return false;
-               });
-               $('.x').click(function() {
-                 $('.popup').hide();
-                 overlay.appendTo(document.body).remove();
-                 return false;
-               });
-             });
-          `,
-            }}
-          />
-
-
-         <div class='popup wow fadeInUp delay-0-10s animated animateUP'>
-            <div class='cnt223 pa00'>
-            <a href='' class='close popupclose'>X</a>
-               <div className='popupinner'>
-               <a href="https://www.linkedin.com/company/yoma-multinational-solutions/"><img src="/assets/img/linkedpopup.jpg"/></a>
-               </div>
-            </div>
-         </div>
-
+      
 
       <section className="contact-page py-50">
                 <div className="container">

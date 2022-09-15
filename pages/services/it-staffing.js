@@ -8,7 +8,7 @@ export default function StaffAugmentation() {
   
       
         <Head>
-        <title>IT Staffing</title>
+        <title>IT Staffing - YOMA Technologies</title>
         <meta name="description" content="Yoma, one of the leading IT staffing companies, enables you to achieve and optimize the most strategic and transformational components of business success - the right people with the right skills, competence, and attitude."/>
         </Head>
         
@@ -39,7 +39,7 @@ export default function StaffAugmentation() {
                         <b>Yoma,</b> one of the leading IT staffing companies, enables you to achieve and optimize the most strategic and transformational components of business success - the right people with the right skills, competence, and attitude. As one of the industry's most respected IT staffing companies, we offer a wide range of temporary staffing services, including IT Staff Augmentation, and Permanent Recruitment.
                         </p>                        
                         <p className="text-justify">
-                        We take in pride in our combined experience of decades to  find the best talents that meet your organization’s specific needs. We create the most amiable platform for you to meet the best candidates who meet your requirements, absolutely eliminating any chance of  leaving a gap in-between.
+                        We take pride in our combined experience of decades to  find the best talents that meet your organization’s specific needs. We create the most amiable platform for you to meet the best candidates who deliver on your requirements.
                         </p>
                         {/* <h5>We help you optimize your project costs by enabling you to:</h5>
                         <ul className="list-style-three mt-15">
@@ -90,7 +90,7 @@ export default function StaffAugmentation() {
                   <div className="row">
                      <div className="col-sm-6 coleql1">
                          <div className="pt-20">
-                             <h3 className="h3themecolor">Why Opt Yoma for Staff Augmentation Services?</h3>
+                             <h3 className="h3themecolor">Why opt YOMA for staff augmentation services?</h3>
                              <p className="text-justify">
                              A company must upgrade and expand its IT departments and have well-versed people on board. The global staffing business is one of the most potent sources of staff augmentation talent, with an estimated annual expenditure of nearly *US$490 billion, and YOMA makes an ideal choice to outsource your staff augmentation efforts to as we demonstrate experience, customer acknowledgement and authorization to push on.
                              </p>
@@ -99,7 +99,7 @@ export default function StaffAugmentation() {
                      </div>
                      <div className="col-sm-6 coleql2">
                      <div className="pt-20">
-                             <h3 className="h3themecolor">Permanent Recruitment</h3>
+                             <h3 className="h3themecolor">Permanent recruitment</h3>
                              <p className="text-justify">
                              Talented employees are an asset to any organization. Therefore, it is imperative to select the right candidates for the right jobs through a systematic recruitment process and a good employer brand.
                              </p>

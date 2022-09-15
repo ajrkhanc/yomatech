@@ -8,7 +8,7 @@ export default function WebDevelopment() {
   
       
         <Head>
-        <title>Mobile App Development</title>
+        <title>Mobile App Development - YOMA Technologies</title>
         <meta name="description" content="Mobility in app development has proven to be a compelling reason for businesses to hire a software development firm."/>
         </Head>
 
@@ -127,7 +127,7 @@ export default function WebDevelopment() {
 
                                 <div className="col-sm-4 innerboxcsd1 wow fadeInUp delay-0-4s animated animateUP">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Design & Prototyping of Apps:</h3>
+                                        <h3 className="h3themecolor">Design & prototyping of apps:</h3>
                                         <p className="text-justify">
                                         Designing visually appealing, interactive, and user-friendly apps has always been at the forefront of our mobile app development services. The sole aim of our designing team is to create an engaging, easy-to-use, and consistent user interface across all platforms of mobiles.
                                         </p>
@@ -136,7 +136,7 @@ export default function WebDevelopment() {
 
                                 <div className="col-sm-4 innerboxcsd1 wow fadeInUp delay-0-4s animated animateUP">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Native App Development:</h3>
+                                        <h3 className="h3themecolor">Native app development:</h3>
                                         <p className="text-justify">
                                         Experienced iOS and Android app developers will learn about your needs and requirements and turn them into mobile apps that are unique, secure, and engaging. YOMA is the place to be if you want to create an app for a specific platform.
                                         </p>
@@ -145,7 +145,7 @@ export default function WebDevelopment() {
 
                                 <div className="col-sm-4 innerboxcsd1 wow fadeInUp delay-0-4s animated animateUP">
                                     <div className="innerboxcsd">
-                                        <h3 className="h3themecolor">Development of Cross-Platform Apps:</h3>
+                                        <h3 className="h3themecolor">Development of cross-platform apps:</h3>
                                         <p className="text-justify">
                                         We have created powerful and innovative cross-platform hybrid apps for small, medium, and large enterprises using our hands-on experience with react native, Flutter, and Xamarian technologies. Get a market-ready, low-cost app that quickly reaches a larger audience.
                                         </p>

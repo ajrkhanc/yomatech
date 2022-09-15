@@ -22,7 +22,7 @@ export default function WhyYomaTech() {
                      <div className="col-sm-6 coleql1">
                          <div className="pt-20 pb-10">
                          <div className="section-title text-left mb-0">
-                         <h2 className="mainh1"><span>Why </span> Yoma Tech?</h2>
+                         <h2 className="mainh1"><span>Why </span> YOMA Tech?</h2>
                         </div>
                              <p className="text-justify">
                              YOMA Technologies - One resource for IT staffing, custom software development, mobile app development, and SaaS solutions services.
@@ -48,7 +48,7 @@ export default function WhyYomaTech() {
         <section className="what-we-do ccw pt-50 rpt-40 pb-40 rpb-30">
             <div className="container">
                 <div className="section-title text-center mb-65">
-                <h2 className="mainh1"><span>Why </span> Yoma Tech?</h2> 
+                <h2 className="mainh1"><span>Our </span>key traits:</h2> 
                 </div>
                 <div className="row justify-content-center">
                     <div className="col-md-4 col-sm-6">
@@ -86,7 +86,7 @@ export default function WhyYomaTech() {
                         <img className="imgicon70" src="/assets/img/icon/staff-augmentation.png" />
                         </div>
                         <div className="feature-content">
-                            <h5>Progressive Roadmap:</h5>
+                            <h5>Progressive roadmap:</h5>
                             <p>
                             We are a result-oriented software development company that carefully comprehends the client's project details and offers the best-fit technology Solution.
                             </p>
@@ -100,7 +100,7 @@ export default function WhyYomaTech() {
                         <img className="imgicon70" src="/assets/img/icon/manage-services.png" />
                         </div>
                         <div className="feature-content">
-                            <h5>Flexible Engagement Model:</h5>
+                            <h5>Flexible engagement model:</h5>
                             <p>
                             We enable transparency and scalability at all engagement levels with a unique amalgamation of skilled developers and cutting-edge technologies.
                             </p>
@@ -114,7 +114,7 @@ export default function WhyYomaTech() {
                         <img className="imgicon70" src="/assets/img/icon/shared-resource-program.png" />
                         </div>
                         <div className="feature-content">
-                            <h5>Consistent Delivery:</h5>
+                            <h5>Consistent delivery:</h5>
                             <p>
                             Depending on the project's requirement, we use various software development techniques such as Scrum, Scrum ban, and Scaled Agile Framework.
                             </p>
