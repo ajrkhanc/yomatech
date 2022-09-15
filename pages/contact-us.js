@@ -78,6 +78,7 @@ const ContactUs = () => {
                         <div className="col-lg-4">
                             <div className="contact-form-left bgs-cover h-100 wow fadeInLeft delay-0-2s contactbg">
                                 <h2>Leave A Message</h2>
+                                <span  className="llc">We will call back</span>
                             </div>
                         </div>
                         <div className="col-lg-8">

@@ -27,7 +27,7 @@ export default function index() {
                     <div className="col-lg-6">
                         <div className="about-content wow fadeInRight delay-0-2s animated animateright">
                         <div className="section-title">                            
-                            <h2 className="mainh1"><span>About</span> Us</h2>
+                            <h2 className="mainh1"><span>About</span> us</h2>
                         </div>
                         <p className="text-justify">
                         YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work.
@@ -38,7 +38,7 @@ export default function index() {
                         </p>
 
                         <p className="text-justify">
-                        When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and Permanent Recruitment solutions.
+                        When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and permanent recruitment solutions.
                         </p>
          
                         </div>
