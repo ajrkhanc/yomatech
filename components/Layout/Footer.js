@@ -41,19 +41,18 @@ export default function Footer() {
                                     <a href="/"><img src="/assets/img/logo/yoma-logo.png" alt="Logo"/></a>
                                 </div>
                                 <div className="text">
-                                    YOMA is in the HR industry for the last two decades and has been dedicatedly providing a comprehensive range of HR services and management consulting to all-sized businesses. In today’s dynamic and ever-changing business environment, it is imperative to understand the current needs of businesses. <a href="/about-us">Read more</a>
+                                YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work. <a href="/about-us">Read more</a>
                                 </div>                                
                             </div>
                         </div>
                         <div className="col-lg-3 col-sm-6">
                             <div className="footer-widget link-widget ml-20 rml-0">
                                 <h4 className="footer-title">OUR SOLUTIONS</h4>
-                                <ul className="list-style-three">
-                                    <li><a href="#">Cloud and Devops</a></li>
-                                    <li><a href="#">Custom Software Development</a></li>
-                                    <li><a href="#">Mobile App Development</a></li>
-                                    <li><a href="#">Testing and QA</a></li>
-                                    <li><a href="#">Dedicated Development Team</a></li>
+                                <ul className="list-style-three">                                    
+                                    <li><a href="/services/custom-software-development">Custom Software Development</a></li>
+                                    <li><a href="/services/mobile-app-development">Mobile App Development</a></li>
+                                    <li><a href="/services/it-staffing">IT Staffing</a></li>
+                                    <li><a href="/services/saas-solutions">SaaS Solutions</a></li>
                                     
                                 </ul>
                             </div>
