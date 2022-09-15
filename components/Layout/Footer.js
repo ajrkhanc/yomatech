@@ -74,8 +74,8 @@ export default function Footer() {
                                 <h4 className="footer-title">NEWSLETTER</h4>
                                 <p>Subscribe to our monthly newsletter to receive important updates, suitable for your company and people.</p>
                                 <form id="footerformreset" method="post" onSubmit={registerUser}>
-                                    <input type="email" name="fmail" placeholder="Your Email Address" required/>
-                                    <button type="submit" value="submit"><i className="fa fa-paper-plane"></i></button>
+                                    <input type="email" name="fmail" placeholder="Email Address" required/>
+                                    <button type="submit" value="submit"><i className="fas fa-arrow-right"></i></button>
                                     <label id="submitbuttonform"></label>
                                 </form>
                                 <p id="showlabel" style={{ display: "none" }}></p>

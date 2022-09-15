@@ -334,5 +334,15 @@
       border-left: 10px solid #f2801f;
     }
 
+    .newbtn{
+      background-color: #2e68b0 !important;
+      color: #fff !important;
+    }
+
+    .newbtn:hover{
+      background-color: #f2801f !important;
+      color: #fff !important;
+    }
+
 
 

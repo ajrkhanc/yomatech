@@ -119,6 +119,7 @@ export default function Home() {
          </div>
       </div>
       <div className="row align-items-center icon70">
+
          <div className="col-xl-4 col-md-6">
             <div className="feature-item wow fadeInUp delay-0-2s">
                <div className="icon">
@@ -131,18 +132,7 @@ export default function Home() {
                </div>
             </div>
          </div>
-         <div className="col-xl-4 col-md-6 d-none">
-            <div className="feature-item wow fadeInUp delay-0-4s">
-               <div className="icon">
-                  <img src="/assets/img/icon/industrial-staffing.png"/>
-               </div>
-               <div className="feature-content">
-                  <h5>Web Development</h5>
-                  <p>Expand your business by creating custom web applications tailored to your specific needs. Utilize our software developers' expertise...</p>
-                  <a href="/services/web-development" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
-               </div>
-            </div>
-         </div>
+         
          <div className="col-xl-4 col-md-6">
             <div className="feature-item wow fadeInUp delay-0-6s">
                <div className="icon">
@@ -155,68 +145,9 @@ export default function Home() {
                </div>
             </div>
          </div>
-         <div className="col-xl-4 col-md-6 d-none">
-            <div className="feature-item wow fadeInUp delay-0-8s">
-               <div className="icon">
-                  <img src="/assets/img/icon/manage-services.png"/>
-               </div>
-               <div className="feature-content">
-                  <h5>Dedicated Development Team</h5>
-                  <p>We provide businesses with contractual engagement methods that allow them to flex software outsourcing as needed, ensuring higher...</p>
-                  <a href="/services/dedicated-development-team" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
-               </div>
-            </div>
-         </div>
-         <div className="col-xl-4 col-md-6 d-none">
-            <div className="feature-item wow fadeInUp delay-1-0s">
-               <div className="icon">
-                  <img src="/assets/img/icon/shared-resource-program.png"/>
-               </div>
-               <div className="feature-content">
-                  <h5>Software Product Development</h5>
-                  <p>Benefit from our expanded capacities of start to finish item designing administrations...</p>
-                  <a href="/services/software-product-development-services" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
-               </div>
-            </div>
-         </div>
-         <div className="col-xl-4 col-md-6 d-none">
-            <div className="feature-item wow fadeInUp delay-1-2s">
-               <div className="icon">
-                  <img src="/assets/img/icon/apprenticeship-program.png"/>
-               </div>
-               <div className="feature-content">
-                  <h5>Testing & QA</h5>
-                  <p>Maintain Quality Assurance by correcting faults and debugging apps to ensure high performance...</p>
-                  <a href="/services/testing-and-qa" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
-               </div>
-            </div>
-         </div>
+       
 
-         <div className="col-xl-4 col-md-6 d-none">
-            <div className="feature-item wow fadeInUp delay-1-2s">
-               <div className="icon">
-                  <img src="/assets/img/icon/apprenticeship-program.png"/>
-               </div>
-               <div className="feature-content">
-                  <h5>Cloud and DevOps</h5>
-                  <p>Apply automation to a conventional business system to seamlessly manage operations and development processes...</p>
-                  <a href="/services/cloud-and-devops" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
-               </div>
-            </div>
-         </div>
-
-         <div className="col-xl-4 col-md-6 d-none">
-            <div className="feature-item wow fadeInUp delay-1-2s">
-               <div className="icon">
-                  <img src="/assets/img/icon/apprenticeship-program.png"/>
-               </div>
-               <div className="feature-content">
-                  <h5>Delivering the right solution</h5>
-                  <p>We have expertise in understanding the most critical challenges and then provide the best suited as per custom needs, be it...</p>
-                  <a href="/services/delivering-the-right-solution" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
-               </div>
-            </div>
-         </div>
+          
 
          <div className="col-xl-4 col-md-6">
             <div className="feature-item wow fadeInUp delay-1-2s">
@@ -224,9 +155,9 @@ export default function Home() {
                   <img src="/assets/img/icon/apprenticeship-program.png"/>
                </div>
                <div className="feature-content">
-                  <h5>IT Staff Augmentation</h5>
-                  <p>Staff augmentation is an outsourcing strategy that YOMA provides to our corporate clients that enables them to hire talent across profiles and verticals...</p>
-                  <a href="/services/it-staff-augmentation" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
+                  <h5>IT Staffing</h5>
+                  <p>Yoma, one of the leading IT staffing companies, enables you to achieve and optimize the most strategic and transformational components...</p>
+                  <a href="/services/it-staffing" className="learn-more">Read More <i className="fas fa-arrow-right"></i></a>
                </div>
             </div>
          </div>
@@ -258,7 +189,7 @@ export default function Home() {
                   When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and Permanent Recruitment solutions.
                   </p>
                  
-                  <a href="/about-us" className="theme-btn style-three mt-25">Read More →</a>
+                  <a href="/about-us" className="theme-btn style-three mt-25 newbtn">Read More →</a>
                </div>
             </div>
          </div>
