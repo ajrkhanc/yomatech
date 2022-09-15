@@ -74,7 +74,7 @@ export default function WhyYomaTech() {
                         <div className="feature-content">
                             <h5>Scalable team:</h5>
                             <p>
-                            We pool-in and nurture talented resources based on diverse project requirements to deliver on your custom business demands, hence generating profitable results. Our company has an expert team of experienced web developers, UI/UX designers, testers, and others to offer custom software development services based on your changing business requirements.
+                            We pool-in and nurture talented resources based on diverse project requirements to deliver on your custom business demands, hence generating profitable results.
                             </p>
                         </div>
                         </div>
