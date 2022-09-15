@@ -16,6 +16,33 @@ export default function WhyYomaTech() {
         <img className="img100" src="/assets/img/banner/why-yoma-tech.jpg"/>
         </section>
 
+        <section className="pt-50 pb-30">
+               <div className="container">
+                  <div className="row">
+                     <div className="col-sm-6 coleql1">
+                         <div className="pt-20 pb-10">
+                         <div className="section-title text-left mb-0">
+                         <h2 className="mainh1"><span>Why </span> Yoma Tech?</h2>
+                        </div>
+                             <p className="text-justify">
+                             YOMA Technologies - One resource for IT staffing, custom software development, mobile app development, and SaaS solutions services.
+                             </p>
+                             <p className="text-justify">
+                             We leverage a highly qualified and extensively experienced team of human resource professionals from across the world to hire the most eligible resources for your organizations. In addition, we have teams of software developers, mobile app developers, and SaaS engineers who never stop ideating to get you the best tailored IT products on a competitive budget.
+                             </p>
+                             <i>“It's always worth getting more than what you need while saving on your budget!”</i>
+                            
+                         </div>
+                     </div>
+                     <div className="col-sm-6 coleql2">
+                         <div>
+                         <img src="/assets/img/professional-staffing2.jpg" alt="About"/>                          
+                         </div>
+                     </div>
+                  </div>
+               </div>
+            </section>
+
     
 
         <section className="what-we-do ccw pt-50 rpt-40 pb-40 rpb-30">
@@ -32,7 +59,9 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Assertive communication:</h5>
-                            <p>Our straightforward and transparent approach ensures proactive internal and external communication for a clear vision of business objectives.</p>
+                            <p>
+                            Our straightforward and transparent approach ensures proactive internal and external communication for a clear vision of business objectives.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -44,7 +73,9 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Scalable team:</h5>
-                            <p>Based on diverse project requirements, we scale up talented resources to meet your custom business demands and generate profitable results.</p>
+                            <p>
+                            We pool-in and nurture talented resources based on diverse project requirements to deliver on your custom business demands, hence generating profitable results. Our company has an expert team of experienced web developers, UI/UX designers, testers, and others to offer custom software development services based on your changing business requirements.
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -98,7 +129,9 @@ export default function WhyYomaTech() {
                         </div>
                         <div className="feature-content">
                             <h5>Efficient project management:</h5>
-                            <p>We endeavor to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.</p>
+                            <p>
+                            We endeavor to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.
+                            </p>
                         </div>
                         </div>
                     </div>

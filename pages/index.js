@@ -100,14 +100,12 @@ export default function Home() {
  <section className="hero-section paddingb">
  <Slider {...settings}>
       <div>
-      <img src="/assets/img/banner/hb1.jpg"/>
+      <img src="/assets/img/banner/yoma-it.jpg"/>
       </div>
       <div>
-      <img src="/assets/img/banner/hb2.jpg"/>
+      <img src="/assets/img/banner/yoma-software.jpg"/>
       </div>
-      <div>
-      <img src="/assets/img/banner/hb1.jpg"/>
-      </div>
+     
     </Slider>
 </section>
 
@@ -251,10 +249,13 @@ export default function Home() {
                      <h2 className="mainh1"><span>About</span> Us</h2>
                   </div>
                   <p className='text-justify'>
-                  YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work. In today's era, dexterity and advancement are the fundamental essentials for the success of our technology staffing, where we always stand first to give a right choice to the outer world. Our products and services are designed and aligned to act as a powerful support system for modern organizations in their success stories. From management professionals to digital transformation tools, we have proven our worth and emerged as the best in the club.
+                  YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work.
                   </p>
                   <p className='text-justify'>
-                  As a leading technology staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
+                  As a leading IT staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
+                  </p>
+                  <p className='text-justify'>
+                  When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and Permanent Recruitment solutions.
                   </p>
                  
                   <a href="/about-us" className="theme-btn style-three mt-25">Read More →</a>

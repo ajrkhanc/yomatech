@@ -30,39 +30,35 @@ export default function index() {
                             <h2 className="mainh1"><span>About</span> Us</h2>
                         </div>
                         <p className="text-justify">
-                        YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work. In today's era, dexterity and advancement are the fundamental essentials for the success of our technology staffing, where we always stand first to give a right choice to the outer world. Our products and services are designed and aligned to act as a powerful support system for modern organizations in their success stories. From management professionals to digital transformation tools, we have proven our worth and emerged as the best in the club.
+                        YOMA was founded in 2012 and is part of the BYLD Group, backed by three decades of experience where Technology drives our business, and we have a team to make it work.
                         </p>
                         
                         <p className="text-justify">
-                        As a leading technology staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
+                        As a leading IT staffing company, Yoma Technologies focuses on creating more relevant platforms to provide the right resource based on the client's requirements but also helps manage the workforce without any hassle.
                         </p>
 
                         <p className="text-justify">
-                        Apart from handling your diverse staffing needs, we are a one-stop solution for SaaS (Software-as-a-Service) development. We can offer you a cloud-based SaaS application that is highly responsive, easily accessible, and compatible with any device.
-                        </p>                         
+                        When we talk about workforce hiring, retention, and management, it takes more than one’s hands-on experience and knowledge. Today’s fast-paced IT industry requires your human resource department to be agile and robust, and this is where YOMA Technologies offers you our SaaS-based IT staff augmentation and Permanent Recruitment solutions.
+                        </p>
+         
                         </div>
                     </div>
                 </div>
             </div>
          </section>
 
-         <section className="about-section aboutccs pt-50 pb-30">
+         <section className="about-section aboutccs pt-10 pb-30">
             <div className="container">
                 <div className="row align-items-center">                    
                     <div className="col-lg-6">
                         <div className="about-content wow fadeInRight delay-0-2s animated animateright">                        
                         <p className="text-justify">
-                        We provide numerous IT services for MSMEs, corporate giants, and MNCs based on their business and staffing requirements. Our talented team of HR professionals can offer you a skilled workforce, staff augmentation services, and permanent recruitment services within your desired budget. 
+                        While “better control on projects, operational efficiency, and thriving ideas” are three critical traits of IT staff augmentation solutions offered by us, our permanent recruitment solution ensures you highly qualified top talents willing to grow along with your organization.
                         </p>                        
                         <p className="text-justify">
-                        Our company has an expert team of experienced web developers, UI/UX designers, testers, and others to offer custom software development services based on your changing business requirements. We have in-depth knowledge and expertise of the latest cutting-edge web development technologies to provide mobile-friendly, robust, feature-loaded, and user-friendly customized software solutions.
+                        Apart from handling your diverse staffing needs, we are a one-stop solution for SaaS (Software-as-a-Service) development. We specialize in designing cloud-based SaaS applications that are highly responsive, easily accessible, and compatible with any device.
                         </p>
-                        <p className="text-justify">
-                        Taking our development services a notch higher, we offer mobile development services for iOS and Android platforms to build native or cross-platform mobile apps. From the designing and prototyping of mobile apps to app development and final testing, we deliver feature-led, engaging, and scalable mobile apps for your diverse business needs.
-                        </p>
-                        <p className="text-justify">
-                        So, explore the diverse solutions and business application areas of Yoma Technologies and reach out to us for your corporate requirements.
-                        </p> 
+                        
                         </div>
                     </div>
                     <div className="col-lg-6">
@@ -101,7 +97,9 @@ export default function index() {
                         </div>
                         <div className="feature-content">
                             <h5>Scalable team:</h5>
-                            <p>Based on diverse project requirements, we scale up talented resources to meet your custom business demands and generate profitable results.</p>
+                            <p>
+                            We pool-in and nurture talented resources based on diverse project requirements to deliver on your custom business demands...
+                            </p>
                         </div>
                         </div>
                     </div>
@@ -155,7 +153,9 @@ export default function index() {
                         </div>
                         <div className="feature-content">
                             <h5>Efficient project management:</h5>
-                            <p>We endeavor to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.</p>
+                            <p>
+                            We endeavor to project risk minimization and take full responsibility for the scope, schedule, budget, and timeliness of your project.
+                            </p>
                         </div>
                         </div>
                     </div>

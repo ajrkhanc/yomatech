@@ -306,5 +306,33 @@
   
     }
 
+    .itstaffing{
+      background-image: url(/assets/img/banner/it-staffing.jpg);
+    }
+
+    .saassolutionsbg{
+      background-image: url(/assets/img/banner/saas-solution.jpg);
+    }
+
+    .boxccsp .service-style-two{
+      border: 2px solid #f28020;
+    }
+
+    .saasdarkbg{
+      background: #f5f5ff;
+    }
+    .spana{
+      color: #f2801f;
+    padding-right: 8px;
+    font-weight: 600;
+    }
+
+    .borderrc{
+      border-right: 10px solid #dce8ff;
+    }
+    .borderlc{
+      border-left: 10px solid #f2801f;
+    }
+
 
 
