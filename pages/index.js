@@ -48,7 +48,7 @@ export default function Home() {
       xhttp.send("leadsquared-FirstName=" + event.target.name.value +
           "&leadsquared-EmailAddress=" + event.target.email.value +
           "&leadsquared-Mobile=" + event.target.number.value +
-          "&leadsquared-Notes=" + event.target.message.value +
+          "&leadsquared-Notes=" + event.target.Message.value +
           "&leadsquared-mx_Business_Entity=" + event.target.leadsquared_mx_Business_Entity.value)
 
   }
