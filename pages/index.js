@@ -395,7 +395,7 @@ export default function Home() {
                            <div className="form-group">
                               <label htmlFor="service">Business Entity*</label>
                               <select id="service" name="leadsquared_mx_Business_Entity">
-                                 <option value="YOMA Business Solutions" selected="">YOMA Business Solutions</option>
+                                 <option value="YOMA Technologies Pvt. Ltd.">YOMA Technologies Pvt. Ltd.</option>
                               </select>
                            </div>
                         </div>
