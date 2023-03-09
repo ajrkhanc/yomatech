@@ -93,7 +93,7 @@ export default function Footer() {
                             <a target="_blank" href="https://www.linkedin.com/company/yoma-multinational-solutions/"><i className="fab fa-linkedin-in"></i></a>
                             <a target="_blank" href="https://www.youtube.com/user/yomamultinational"><i className="fab fa-youtube"></i></a>
                         </div>
-                        <p>Copyright 2022 YOMA Technologies All Rights Reserved.</p>
+                        <p>Copyright 2023 YOMA Technologies All Rights Reserved.</p>
                     </div>
                 </div>
             </div>

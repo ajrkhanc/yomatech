@@ -75,7 +75,7 @@ export default function Header() {
                                         </li>
                                         <li><a href="/why-yoma-tech">WHY YOMA TECH</a></li>                                  
                                         <li className='d-none'><a href="/why-india">WHY INDIA</a></li>
-                                        <li className='d-none'><a href="/blogs">BLOG</a></li>
+                                        <li><a target="_blank" href="https://yomamultinational.com/blogs">BLOG</a></li>
                                         <li><a href="/contact-us">CONTACT US</a></li>
                                     </ul>
                                 </div>
